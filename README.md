@@ -7,7 +7,7 @@ Yes, some old software is still needed, but with the inactivity of some projects
 - **Windows Movie Maker, Windows Messenger and Photo Gallery** from [Windows Live Essentials 2012](https://support.microsoft.com/en-us/windows/windows-essentials-2707b879-5004-4349-c4a4-e5900945f2a9)  
 **Reason to be here:** [software](https://support.microsoft.com/en-us/windows/windows-essentials-2707b879-5004-4349-c4a4-e5900945f2a9) is discontinued.  
 Author statement: *We're no longer offering the Windows Essentials 2012 suite for download, but if you already have it installed, it will continue to work as it does today. It reached end of support on January 10, 2017, and it isn't available in Windows 10.*  
-Download in 00X.zip files [here](https://github.com/vrravalos/awesome-old-software/tree/main/WindowsLiveEssentials-ZipToJoin)  
+**Download in 00X.zip files:** [here](https://github.com/vrravalos/awesome-old-software/tree/main/WindowsLiveEssentials-ZipToJoin)  
 How to extract: *To join/extract all the ".00X" files you can use the 7-Zip (free and fast) https://www.7-zip.org/
 Right click on "windows live essentials - movie maker - lsetup-all.001" and selec 7-Zip > Extract to "windows live essentials - movie maker - lsetup-all" option.*
 
