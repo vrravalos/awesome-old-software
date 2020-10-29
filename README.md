@@ -13,8 +13,8 @@ Right click on "windows live essentials - movie maker - lsetup-all.001" and sele
 
 - **Microsoft Photo Story 3** from [Photo Story](https://en.wikipedia.org/wiki/Photo_Story)  
 "Photo Story 3 includes features that enable you to create a slideshow with your digital pictures, edit your pictures, create your story with original music, add narration, and share them with your family and friends."  
-**Reason to be here:** [software](https://en.wikipedia.org/wiki/Photo_Story) is discontinued.  
-**Download:** [here](https://github.com/vrravalos/awesome-old-software/blob/main/download/PhotoStory3.msi)  
+**Reason to be here:** [software](https://en.wikipedia.org/wiki/Photo_Story) is discontinued.    
+**Download:** [here](https://github.com/vrravalos/awesome-old-software/blob/main/download/PhotoStory3.msi)   
 Other similar Windows Store App: [Photo Story](https://www.microsoft.com/en-us/p/photo-story/9nblggh1z351?activetab=pivot:overviewtab) from [Microsoft Garage](https://www.microsoft.com/en-us/garage/)  
 
 
@@ -24,9 +24,9 @@ Author [statement](https://support.google.com/picasa/answer/6383491?hl=en): *Aft
 **Download:** [here](https://github.com/vrravalos/awesome-old-software/blob/main/download/picasa39-setup.exe)  
 
 - **NetSpeedMonitor 2.5.4.0 64bits for Windows 8 and 10** by [Florian Gilles](http://www.floriangilles.com/)  
-Developer's Description: "With NetSpeedMonitor you can monitor the current speed (up- and downstream) of your Network Interfaces and the amount of data transferred. In addition to the Connection Table with all TCP/UDP endpoints and the Toolbar Tooltip with a quick and short traffic overview, you can also see detailed daily and monthly Traffic Statistics."
-**Reason to be here:** official [download page](http://www.floriangilles.com/) is dead. 
-For Windows 10 users: make sure to enable "compatibility mode" (right click on ".msi" file, select "Properties > Compatibility > Check 'Run this program in compatibility mode for': Previous version of Windows").
+Developer's Description: "With NetSpeedMonitor you can monitor the current speed (up- and downstream) of your Network Interfaces and the amount of data transferred. In addition to the Connection Table with all TCP/UDP endpoints and the Toolbar Tooltip with a quick and short traffic overview, you can also see detailed daily and monthly Traffic Statistics."  
+**Reason to be here:** official [download page](http://www.floriangilles.com/) is dead.   
+For Windows 10 users: make sure to enable "compatibility mode" (right click on ".msi" file, select "Properties > Compatibility > Check 'Run this program in compatibility mode for': Previous version of Windows").  
 **Download:** [here](https://github.com/vrravalos/awesome-old-software/blob/main/download/netspeedmonitor_2_5_4_0_x64_setup.msi)  
 
 ---
