@@ -1,5 +1,5 @@
-# awesome-old-software
-Do you know the expression "old but useful"?  
+# 😎 Awesome Old Software
+Do you know the expression "old but still useful"?  
 Yes, some **free old software** is still needed, but with the inactivity of some projects or dead pages they are sometimes very difficult to find in the vastness of the internet, so I collected them and made them available to everyone here to be downloaded easily.
 
 ---
@@ -26,7 +26,7 @@ Author [statement](https://support.google.com/picasa/answer/6383491?hl=en): *Aft
 - **NetSpeedMonitor 2.5.4.0 64bits for Windows 8 and 10** by [Florian Gilles](http://www.floriangilles.com/)  
 Developer's Description: "With NetSpeedMonitor you can monitor the current speed (up- and downstream) of your Network Interfaces and the amount of data transferred. In addition to the Connection Table with all TCP/UDP endpoints and the Toolbar Tooltip with a quick and short traffic overview, you can also see detailed daily and monthly Traffic Statistics."  
 **Reason to be here:** official [download page](http://www.floriangilles.com/) is dead.   
-For Windows 10 users: make sure to enable "compatibility mode" (right click on ".msi" file, select "Properties > Compatibility > Check 'Run this program in compatibility mode for': Previous version of Windows").  
+💡 Hint for Windows 10 users: make sure to enable "compatibility mode" (right click on ".msi" file, select "Properties > Compatibility > Check 'Run this program in compatibility mode for': Previous version of Windows").  
 **Download:** [here](https://github.com/vrravalos/awesome-old-software/blob/main/download/netspeedmonitor_2_5_4_0_x64_setup.msi)  
 
 ---
